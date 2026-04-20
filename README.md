@@ -32,7 +32,7 @@ Oracle 데이터베이스 설치 및 운영 환경 구축 경험을 기록합니
 
 ---
 
-## Oracle 19c 주요 학습 내용
+## Oracle 주요 학습 내용
 
 ### Admin
 - Linux 7.9/8.9 환경에서 Oracle 12c / 19c / 26ai 멀티 버전 설치

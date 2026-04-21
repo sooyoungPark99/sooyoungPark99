@@ -4,6 +4,19 @@ Oracle 데이터베이스 설치 및 운영 환경 구축 경험을 기록합니
 
 ---
 
+## 저장소 목록
+
+| 저장소 | 설명 |
+|--------|------|
+| [oracle-19c-rac-install](https://github.com/sooyoungPark99/oracle-19c-rac-install) | Oracle 19c RAC 2노드 설치 가이드 |
+| [oracle-19c-asm-install](https://github.com/sooyoungPark99/oracle-19c-asm-install) | ASM 환경 Oracle 19c 설치 가이드 |
+| [oracle-19c-dataguard](https://github.com/sooyoungPark99/oracle-19c-dataguard) | Data Guard 구성 및 Switchover / Failover 테스트 |
+| [oracle-12c-single-install](https://github.com/sooyoungPark99/oracle-12c-single-install) | Oracle 12c Single Instance 설치 가이드 |
+| [oracle-11g-single-install](https://github.com/sooyoungPark99/oracle-11g-single-install) | Oracle 11g Single Instance 설치 가이드 |
+| [postgresql-install](https://github.com/sooyoungPark99/postgresql-install) | PostgreSQL 15 설치 및 Oracle 19c 환경 구축 |
+
+---
+
 ## 기술 스택
 
 ### Database
@@ -68,17 +81,4 @@ Oracle 데이터베이스 설치 및 운영 환경 구축 경험을 기록합니
 - Primary / Standby DB 구성 및 Redo 동기화
 - Switchover / Failover 역할 전환 테스트
 - DGMGRL Broker를 활용한 자동화 구성
-
----
-
-## 저장소 목록
-
-| 저장소 | 설명 |
-|--------|------|
-| [oracle-19c-rac-install](https://github.com/sooyoungPark99/oracle-19c-rac-install) | Oracle 19c RAC 2노드 설치 가이드 |
-| [oracle-19c-asm-install](https://github.com/sooyoungPark99/oracle-19c-asm-install) | ASM 환경 Oracle 19c 설치 가이드 |
-| [oracle-19c-dataguard](https://github.com/sooyoungPark99/oracle-19c-dataguard) | Data Guard 구성 및 Switchover / Failover 테스트 |
-| [oracle-12c-single-install](https://github.com/sooyoungPark99/oracle-12c-single-install) | Oracle 12c Single Instance 설치 가이드 |
-| [oracle-11g-single-install](https://github.com/sooyoungPark99/oracle-11g-single-install) | Oracle 11g Single Instance 설치 가이드 |
-| [postgresql-install](https://github.com/sooyoungPark99/postgresql-install) | PostgreSQL 15 설치 및 Oracle 19c 환경 구축 |
 

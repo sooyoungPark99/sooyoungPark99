@@ -15,6 +15,7 @@ Oracle 데이터베이스 설치 및 운영 환경 구축 경험을 기록합니
 | [oracle-11g-single-install](https://github.com/sooyoungPark99/oracle-11g-single-install) | Oracle 11g Single Instance 설치 가이드 |
 | [postgresql-install](https://github.com/sooyoungPark99/postgresql-install) | PostgreSQL 15 설치 및 Oracle 19c 환경 구축 |
 | [ora2pg-migration](https://github.com/sooyoungPark99/ora2pg-migration) | Oracle 19c에서 PostgreSQL로 데이터 이행 (Ora2Pg) |
+| [mysql-install](https://github.com/sooyoungPark99/mysql-install) | MySQL 8.0 설치 가이드 |
  
 ---
  

@@ -11,6 +11,7 @@ Oracle 데이터베이스 설치 및 운영 환경 구축 경험을 기록합니
 | [oracle-19c-rac-install](https://github.com/sooyoungPark99/oracle-19c-rac-install) | Oracle 19c RAC 2노드 설치 가이드 |
 | [oracle-19c-asm-install](https://github.com/sooyoungPark99/oracle-19c-asm-install) | ASM 환경 Oracle 19c 설치 가이드 |
 | [oracle-19c-dataguard](https://github.com/sooyoungPark99/oracle-19c-dataguard) | Data Guard 구성 및 Switchover / Failover 테스트 |
+| [oracle-ogg-19c-guide](https://github.com/sooyoungPark99/oracle-ogg-19c-guide) | Oracle GoldenGate 19c 설치 및 단방향 복제 구성 가이드 |
 | [oracle-12c-single-install](https://github.com/sooyoungPark99/oracle-12c-single-install) | Oracle 12c Single Instance 설치 가이드 |
 | [oracle-11g-single-install](https://github.com/sooyoungPark99/oracle-11g-single-install) | Oracle 11g Single Instance 설치 가이드 |
 | [postgresql-install](https://github.com/sooyoungPark99/postgresql-install) | PostgreSQL 15 설치 및 Oracle 19c 환경 구축 |
@@ -38,13 +39,14 @@ Oracle 데이터베이스 설치 및 운영 환경 구축 경험을 기록합니
 - Recovery Catalog 구축·운영
 ---
  
-### RAC·Data Guard
-RAC 클러스터 구축부터 OCR 복구, Data Guard Switchover·Failover 테스트까지 이중화 환경 전반 구성 경험 보유
+### RAC·Data Guard·GoldenGate
+RAC 클러스터 구축부터 OCR 복구, Data Guard Switchover·Failover, GoldenGate 실시간 복제 구성까지 고가용성 환경 전반 경험 보유
  
 - VirtualBox 기반 2노드 RAC 클러스터 직접 구축
 - ASM 디스크 그룹 / Grid Infrastructure 구성
 - Active-Standby Data Guard 구성
 - Switchover / Failover / DGMGRL Broker 운영
+- GoldenGate 19c 설치 및 단방향 복제 구성 (Extract / Data Pump / Replicat)
 ---
  
 ### SQL·PL/SQL·튜닝
@@ -81,7 +83,7 @@ Oracle 설치·운영에 필요한 OS 설정, 백업 자동화, alert log 분석
  
 | 기술 | 내용 |
 |------|------|
-| Oracle 19c | Single / RAC / ASM / Data Guard / Backup & Recovery / Tuning |
+| Oracle 19c | Single / RAC / ASM / Data Guard / GoldenGate / Backup & Recovery / Tuning |
 | Oracle 12c | Non-CDB 환경 설치 및 운영 |
 | Oracle 11g | Single Instance 설치 및 운영 |
 | PostgreSQL 15 | 설치 / 테이블 관리 / Oracle 아키텍처 비교 |
@@ -102,12 +104,4 @@ Oracle 설치·운영에 필요한 OS 설정, 백업 자동화, alert log 분석
 | Oracle Linux 7.9 / 8.9 | 커널 파라미터 튜닝 / 네트워크 구성 / 시스템 모니터링 |
 | VirtualBox 7.0 | 멀티 VM 환경 구성 / RAC 클러스터 구축 |
 | Hadoop / Hive / Spark | 분산 파일 시스템 / 빅데이터 파이프라인 구성 |
-| 접속 도구 | SQL*Plus / DBCA / NETCA / DBeaver / MobaXterm / PuTTY |
- 
----
- 
-## 진행 중인 학습
- 
-- Oracle Exadata 스토리지 구조 및 고성능 데이터 처리 아키텍처
-- Hadoop / Hive / Spark 빅데이터 파이프라인 구성
- 
+| 접속 도구 | SQL*Plus / DBCA / NETCA / GGSCI / DBeaver / MobaXterm / PuTTY |

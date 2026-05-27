@@ -10,6 +10,7 @@ Oracle 데이터베이스 설치 및 운영 환경 구축 경험을 기록합니
 |--------|------|
 | [oracle-19c-rac-install](https://github.com/sooyoungPark99/oracle-19c-rac-install) | Oracle 19c RAC 2노드 설치 가이드 |
 | [oracle-19c-asm-install](https://github.com/sooyoungPark99/oracle-19c-asm-install) | ASM 환경 Oracle 19c 설치 가이드 |
+| [oracle-19c-single-install](https://github.com/sooyoungPark99/oracle-19c-single-install) | Oracle 19c Single Instance 설치 가이드 (파일시스템 기반) |
 | [oracle-19c-dataguard](https://github.com/sooyoungPark99/oracle-19c-dataguard) | Data Guard 구성 및 Switchover / Failover 테스트 |
 | [oracle-ogg-19c-guide](https://github.com/sooyoungPark99/oracle-ogg-19c-guide) | Oracle GoldenGate 19c 설치 및 단방향 복제 구성 가이드 |
 | [oracle-12c-single-install](https://github.com/sooyoungPark99/oracle-12c-single-install) | Oracle 12c Single Instance 설치 가이드 |

@@ -18,6 +18,7 @@ Oracle 데이터베이스 설치 및 운영 환경 구축 경험을 기록합니
 | [postgresql-install](https://github.com/sooyoungPark99/postgresql-install) | PostgreSQL 15 설치 및 Oracle 19c 환경 구축 |
 | [ora2pg-migration](https://github.com/sooyoungPark99/ora2pg-migration) | Oracle 19c에서 PostgreSQL로 데이터 이행 (Ora2Pg) |
 | [mysql-install](https://github.com/sooyoungPark99/mysql-install) | MySQL 8.0 설치 가이드 |
+| [mariadb-install](https://github.com/sooyoungPark99/mariadb-install) | MariaDB 10.6 설치 가이드 |
  
 ---
  
@@ -88,6 +89,8 @@ Oracle 설치·운영에 필요한 OS 설정, 백업 자동화, alert log 분석
 | Oracle 12c | Non-CDB 환경 설치 및 운영 |
 | Oracle 11g | Single Instance 설치 및 운영 |
 | PostgreSQL 15 | 설치 / 테이블 관리 / Oracle 아키텍처 비교 |
+| MySQL 8.0 | 설치 / 유저 및 권한 관리 / 데이터 이관 |
+| MariaDB 10.6 | 설치 / 유저 및 권한 관리 / Oracle 비교 |
 | MongoDB | CRUD / BSON 데이터 처리 / 백업 및 복구 |
  
 ### Language & Script

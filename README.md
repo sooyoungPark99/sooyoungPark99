@@ -21,6 +21,7 @@ Oracle 데이터베이스 설치 및 운영 환경 구축 경험을 기록합니
 | [mariadb-install](https://github.com/sooyoungPark99/mariadb-install) | MariaDB 10.6 설치 가이드 |
 | [mariadb-replication](https://github.com/sooyoungPark99/mariadb-replication) | MariaDB 10.6 Replication 구성 가이드 |
 | [mariadb-galera-cluster](https://github.com/sooyoungPark99/mariadb-galera-cluster) | MariaDB 10.6 Galera Cluster 구성 가이드 |
+| [postgresql-operation](https://github.com/sooyoungPark99/postgresql-operation) | PostgreSQL 15 실무 운영 및 PgPool-II 구성 가이드 |
  
 ---
  
@@ -90,7 +91,7 @@ Oracle 설치·운영에 필요한 OS 설정, 백업 자동화, alert log 분석
 | Oracle 19c | Single / RAC / ASM / Data Guard / GoldenGate / Backup & Recovery / Tuning |
 | Oracle 12c | Non-CDB 환경 설치 및 운영 |
 | Oracle 11g | Single Instance 설치 및 운영 |
-| PostgreSQL 15 | 설치 / 테이블 관리 / Oracle 아키텍처 비교 |
+| PostgreSQL 15 | 설치 / 실무 운영 / 백업 복구 / Streaming Replication / PgPool-II |
 | MySQL 8.0 | 설치 / 유저 및 권한 관리 / 데이터 이관 |
 | MariaDB 10.6 | 설치 / Replication / Galera Cluster / 유저 및 권한 관리 |
 | MongoDB | CRUD / BSON 데이터 처리 / 백업 및 복구 |
